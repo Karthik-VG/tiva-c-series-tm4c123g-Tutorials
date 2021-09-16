@@ -1,0 +1,44 @@
+[
+  {
+    "ID": "c:main.c@8@macro@GPIOFBASE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIOFBASE",
+    "location": {
+      "column": "9",
+      "line": "1",
+      "path": "C:\\embedded\\lesson5\\main.c"
+    },
+    "name": "GPIOFBASE",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "2",
+      "path": "C:\\embedded\\lesson5\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@330@F@main@counter",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "counter",
+    "location": {
+      "column": "20",
+      "line": "16",
+      "path": "C:\\embedded\\lesson5\\main.c"
+    },
+    "name": "counter",
+    "origin": "project_file",
+    "scope": null
+  }
+]
